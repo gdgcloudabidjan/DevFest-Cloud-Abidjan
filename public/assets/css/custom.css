@@ -149,6 +149,7 @@ a:focus{
 	position: fixed;
 	top: 30px;
 	left: 30px;
+	width: 200px;
 }
 
 .logo h1{
@@ -167,9 +168,6 @@ a:focus{
 	letter-spacing: 0.08em;
 }
 
-.coming-text{
-	
-}
 
 .coming-text p{
 	color: #fff;
