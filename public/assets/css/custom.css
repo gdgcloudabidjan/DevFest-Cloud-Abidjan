@@ -346,4 +346,7 @@ a:focus{
 	.timer .timer-wrapper .text{
 		font-size: 12px;
 	}
+	.newsletter {
+		width: 90%;
+	}
 }
